@@ -1,5 +1,3 @@
-console.log("hello world");
-
 const nav = document.querySelector("#main");
 const topOfNav = nav.offsetTop;
 
